@@ -19,6 +19,9 @@ modifiedFont["DSIG"].signatureRecords = []
 modifiedFont["gasp"] = newTable("gasp")
 modifiedFont["gasp"].gaspRange = {65535: 0x000A} #Font is shipping UNHINTED :D
 
+modifiedFont["name"].addMultilingualName({'ja':'ニューテゴミン'}, modifiedFont, nameID = 1, windows=True, mac=False)
+modifiedFont["name"].addMultilingualName({'ja':'Regular'}, modifiedFont, nameID = 2, windows=True, mac=False)
+
 modifiedFont.save("fonts/ttf/NewTegomin-Regular.ttf")
 
 shutil.rmtree("instance_ufo")
