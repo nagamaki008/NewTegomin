@@ -41,3 +41,7 @@ https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
 ・JIS第一水準漢字、JIS第二水準漢字
 
 ・一部記号
+
+## New Tegomin
+
+A Mincho (Japanese Serif) style font from handwritten letterforms on 5mm square grid. Aimed for a cross-over of Mincho's clean & well organized appearance with handwritten letter's organic movement.
